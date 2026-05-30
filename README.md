@@ -9,6 +9,6 @@ you can play the most up to date build found in [Folder](Mainline/versions) , Do
 all assets for the game get fetched from this repo.
 
 ### credits
-- [@Sourdoggy](https://github/sourdoggy) | Game font
+- [@Sourdoggy](https://github.com/sourdoggy) | Game font
 
 enjoy snoopingg :0
