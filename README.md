@@ -1,4 +1,4 @@
-## Snowgame3
+## Snow-Game-3
 
 This is a recreation/remaster of the old snowgame games I made [snowgame1](https://scratch.mit.edu/projects/948940689/) [snowgame2](https://scratch.mit.edu/projects/972278962/) using Scratch,
 Snowgame 3 is everything those two games offerd but more! Build entirely on [PenguinMod](https://github.com/PenguinMod) 
