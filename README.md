@@ -8,4 +8,7 @@ Snowgame 3 is a tower defence where you defend your base from snowmen, build str
 you can play the most up to date build found in [folder](Mainline/versions) ,Download the packaged html file or the project file to add your own stuff.
 all assets for the game get fetched from this repo.
 
+### credits
+- [@Sourdoggy](https://github/sourdoggy) | Game font
+
 enjoy snoopingg :0
