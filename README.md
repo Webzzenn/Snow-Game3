@@ -1,1 +1,11 @@
-# Snowgame3
+## Snowgame3
+
+this is a recreation/remaster of the old snowgame games i made using scratch
+Snowgame 3 is everything those two games offerd but more! build entirely on [PenguinMod](https://www.penguinmod.com) 
+penguinmod is a fork of turbowarp which offeres tons of technical featrues and compiles code to javascript.
+
+Snowgame 3 is a tower defence where you defend your base from snowmen, build structures, manage power, update stats and struggle against stupid boses.
+you can play the most up to date build found in [folder](Mainline/versions) download the packaged html file or the project file to add your own stuff.
+all assets for the game get fetched from this repo.
+
+enjoy snoopingg :0
