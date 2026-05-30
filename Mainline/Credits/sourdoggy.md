@@ -1,3 +1,3 @@
 sourdoggy
 
-[Game Font](Mainline/assets/font/latin-def.png)
+[Game Font](Mainline/assets/font/latin-def)
