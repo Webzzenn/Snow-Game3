@@ -1,6 +1,6 @@
 ## Snow-Game-3
 
-This is a recreation/remaster of the old snowgame games I made [snowgame1](https://scratch.mit.edu/projects/948940689/) [snowgame2](https://scratch.mit.edu/projects/972278962/) using Scratch,
+This is a recreation/remaster of the old snowgame games I made [Snow-Game 1](https://scratch.mit.edu/projects/948940689/) [Snow-Game 2](https://scratch.mit.edu/projects/972278962/) using Scratch,
 Snowgame 3 is everything those two games offerd but more! Build entirely on [PenguinMod](https://github.com/PenguinMod) 
 PenguinMod is a fork of [Turbowarp](https://github.com/Turbowarp) which offeres tons of technical featrues and compiles code to javascript.
 
