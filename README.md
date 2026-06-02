@@ -5,8 +5,8 @@ Snowgame 3 is everything those two games offerd but more! Build entirely on [Pen
 PenguinMod is a fork of [Turbowarp](https://github.com/Turbowarp) which offeres tons of technical featrues and compiles code to javascript.
 
 Snowgame 3 is a tower defence where you defend your base from snowmen, build structures, manage power, update stats and struggle against stupid boses.
-you can play the most up to date build found in [Folder](mainline/versions) , Download the packaged html file or the project file to add your own stuff.
-all assets for the game get fetched from this repo.
+you can play the most up to date build found in releases, Download the packaged html file or the project file to add your own stuff.
+all* assets for the game get fetched from this repo.
 
 ### credits
 - [@Sourdoggy](https://github.com/sourdoggy) | Game font
