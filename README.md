@@ -6,7 +6,7 @@ PenguinMod is a fork of [Turbowarp](https://github.com/Turbowarp) which offeres 
 
 Snowgame 3 is a tower defence where you defend your base from snowmen, build structures, manage power, update stats and struggle against stupid boses.
 you can play the most up to date build found in releases, Download the packaged html file or the project file to add your own stuff.
-all* assets for the game get fetched from this repo.
+all assets* for the game get fetched from this repo.
 
 ### credits
 - [@Sourdoggy](https://github.com/sourdoggy) | Game font
