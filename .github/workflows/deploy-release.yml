@@ -1,0 +1,35 @@
+name: Deploy Release Game to GitHub Pagesname: Deploy Release Game to GitHub Pages
+
+on:
+  release:
+    types: [published] # Triggers automatically when you hit "Publish Release"
+
+permissions:
+  contents: write # Allows the script to commit the file to your repo
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download Latest Release Asset
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # 1. Get the URL of the first asset in the latest release
+          ASSET_URL=$(gh api repos/${{ github.repository }}/releases/tags/${{ github.event.release.tag_name }} \
+            --jq '.assets[0].browser_download_url')
+          
+          echo "Downloading asset from: $ASSET_URL"
+          
+          # 2. Download the file and force-name it index.html for GitHub Pages
+          curl -L -o index.html "$ASSET_URL"
+
+      - name: Deploy to GitHub Pages Branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: . # Deploys the folder containing our new index.html
+          branch: gh-pages # The branch GitHub Pages will look at
+          single-commit: true # Keeps history clean
