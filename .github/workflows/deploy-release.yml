@@ -1,4 +1,4 @@
-name: Deploy Release Game to GitHub Pagesname: Deploy Release Game to GitHub Pages
+name: Deploy Release Game to GitHub Pages
 
 on:
   release:
