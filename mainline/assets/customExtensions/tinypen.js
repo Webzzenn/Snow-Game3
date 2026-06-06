@@ -1,3 +1,5 @@
+// THIS EXTENSION WAS HEAVILY MADE USING AI (gemini,claude) the reason for this is because ai can optimise pen more than i ever could.
+
 /* eslint-disable max-len */
 (function(Scratch) {
     'use strict';
