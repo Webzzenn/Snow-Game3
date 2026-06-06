@@ -1,0 +1,6 @@
+{
+  "snowman0": "mainline/assets/art/enemies/snowenemy.0.png",
+  "wsnowman1": "mainline/assets/art/enemies/snowenemy.1.png",
+  "cursor.default": "mainline/assets/art/ui/mouse.cursor.default.png",
+  "cursor.grab": "mainline/assets/art/ui/mouse.cursor.grab.png"
+}
