@@ -1,12 +1,13 @@
 {
-  "gravity.force": "-1500",
-  "projectile.name": "snowball.projectile",
+  "id": "snowball.projectile",
+  
   "art.asset": "snowball",
   "friction.x": "0.1",
   "friction.y": "1",
+  "gravity.force": "-1500",
   "power": "700",
   "knockback": "700",
   "damage": "25",
-  "on.hit.screenshake.force": "1",
-  "on.hit.screenshake.duration: "0.2"
+  "on.hit.screenshake.force": "25",
+  "on.hit.screenshake.duration": "0.2"
 }
