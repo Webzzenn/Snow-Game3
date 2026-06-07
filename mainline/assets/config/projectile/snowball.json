@@ -6,5 +6,7 @@
   "friction.y": "1",
   "power": "700",
   "knockback": "700",
-  "damage": "25"
+  "damage": "25",
+  "on.hit.screenshake.force": "1",
+  "on.hit.screenshake.duration: "0.2"
 }
