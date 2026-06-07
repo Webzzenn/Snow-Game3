@@ -1,5 +1,5 @@
 {
-  "gravity.force": "1500",
+  "gravity.force": "-1500",
   "projectile.name": "snowball.projectile",
   "art.asset": "snowball",
   "friction.x": "0.1",
