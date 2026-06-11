@@ -2,5 +2,5 @@
   "projectile.on.fire": "snowball.projectile",
   "weapon.name": "snowball.weapon",
   "art.asset": "snowball",
-  "fire.rate": "1"
+  "fire.rate": "0.4"
 }
